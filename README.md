@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>YouTube Recapulator</h1>
+<h1>YouTube Recapulator - Thiyagheeswari G</h1>
 <h2>An AI-Powered Video Summarization Tool</h2>
 <p>
   <span class="highlight">YouTube Recapulator</span> is an AI-based application that summarizes YouTube video transcripts to provide users with concise overviews. It leverages <strong>Hugging Face's transformers</strong> for text summarization and <strong>YouTube Transcript API</strong> to retrieve video transcripts.
@@ -90,11 +90,6 @@ print(summarized_text)
     <li>🤗 <strong>Transformers (Hugging Face):</strong> NLP library for summarization.</li>
     <li>🎥 <strong>YouTube Transcript API:</strong> Retrieves YouTube transcripts.</li>
   </ul>
-</div>
-
-<div class="section">
-  <h3>License</h3>
-  <p>This project is licensed under the <strong>MIT License</strong>.</p>
 </div>
 
 </body>
